@@ -1,0 +1,9 @@
+{
+    "_checkout": null,
+    "_output_dir": "/home/mightypirate1/Code/python-template",
+    "_repo_dir": ".",
+    "_template": ".",
+    "module_name": "redis_pg",
+    "python_version": "3.11",
+    "repository_name": "redis-pg"
+}
